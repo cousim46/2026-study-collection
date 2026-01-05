@@ -21,7 +21,7 @@
 <summary><strong>학습 기록</strong></summary>
 <ul>
     <li>
-      <a href="https://hoestory.tistory.com/106">RabbitMQ 기능과 장점</a>
+      <a href="https://hoestory.tistory.com/106" target="_blank">RabbitMQ 기능과 장점</a>
     </li>
   </ul>
 </details>
