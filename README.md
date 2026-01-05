@@ -11,7 +11,7 @@
 
 ## 👣 첫 걸음
 <strong>주제</strong> : RabbitMQ (${학습 레파지토리 주소}) <br/>
-<strong>학습 기간</strong> : 2025-01-05 ~  <br/>
+<strong>학습 기간</strong> : 2026-01-05 ~  <br/>
 <strong>학습 도서</strong> : RabbitMQ in Depth  <br/>
 <strong>학습 이유</strong> <br/>
 - 현재 RabbitMQ를 사용하고 있지만 직접 구현해 본 기능 범위 내에서만 이해하고 있다.  
@@ -19,4 +19,9 @@
 이번 학습은 단순 사용을 넘어 상황에 따라 적절한 기능을 선택할 수 있는 수준의 이해를 목표로 한다.
 <details>
 <summary><strong>학습 기록</strong></summary>
+<ul>
+    <li>
+      <a href="https://hoestory.tistory.com/106">RabbitMQ 기능과 장점</a>
+    </li>
+  </ul>
 </details>
