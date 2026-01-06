@@ -10,7 +10,7 @@
 - 학습을 시작하기 전에 “왜 이걸 공부하는가”에 대한 답을 먼저 정리한다.
 
 ## 👣 첫 걸음
-<strong>주제</strong> : RabbitMQ (${학습 레파지토리 주소}) <br/>
+<strong>주제</strong> : RabbitMQ (https://github.com/cousim46/rabbitmq.git) <br/>
 <strong>학습 기간</strong> : 2026-01-05 ~  <br/>
 <strong>학습 도서</strong> : RabbitMQ in Depth  <br/>
 <strong>학습 이유</strong> <br/>
