@@ -23,5 +23,8 @@
     <li>
       <a href="https://hoestory.tistory.com/106" target="_blank">RabbitMQ 기능과 장점</a>
     </li>
+    <li>
+      <a href="https://hoestory.tistory.com/107" target="_blank">AMQP 프레임 유형</a>
+    </li>
   </ul>
 </details>
