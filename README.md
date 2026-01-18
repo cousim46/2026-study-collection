@@ -29,5 +29,8 @@
     <li>
       <a href="https://hoestory.tistory.com/108" target="_blank">익스체인지, 큐 생성 및 연결하는 방법과 메시지 발행 및 소비하는 과정</a>
     </li>
+    <li>
+      <a href="https://hoestory.tistory.com/109" target="_blank">메시지 속성에 대하여</a>
+    </li>
   </ul>
 </details>
