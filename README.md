@@ -32,5 +32,8 @@
     <li>
       <a href="https://hoestory.tistory.com/109" target="_blank">메시지 속성에 대하여</a>
     </li>
+    <li>
+      <a href="https://hoestory.tistory.com/110" target="_blank">메시지 유실 방지 방법(mandatory, publisher confirm, alternate exchange)</a>
+    </li>
   </ul>
 </details>
