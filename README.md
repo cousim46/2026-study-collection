@@ -35,5 +35,9 @@
     <li>
       <a href="https://hoestory.tistory.com/110" target="_blank">메시지 유실 방지 방법(mandatory, publisher confirm, alternate exchange)</a>
     </li>
+    <li>
+      <a href="https://hoestory.tistory.com/111" target="_blank">RabbitMQ 트랜잭션과 푸시백(back-pressure)
+</a>
+    </li>
   </ul>
 </details>
