@@ -42,7 +42,7 @@
   </ul>
 </details>
 
-<strong>주제</strong> : Kotlin ($깃헙 레파지토리$) <br/>
+<strong>주제</strong> : Kotlin (https://github.com/cousim46/kotlin-study.git) <br/>
 <strong>학습 기간</strong> : 2026-02-13 ~  <br/>
 <strong>학습 방식</strong> :  인프런(온라인 강의) <br/>
 <strong>학습 이유</strong>
