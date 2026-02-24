@@ -12,7 +12,7 @@
 ## 👣 첫 걸음
 <strong>주제</strong> : RabbitMQ (https://github.com/cousim46/rabbitmq.git) <br/>
 <strong>학습 기간</strong> : 2026-01-05 ~  <br/>
-<strong>학습 도서</strong> : RabbitMQ in Depth  <br/>
+<strong>학습 자료</strong> : <a href = "https://www.rabbitmq.com/">RabbitMQ 공식 문서</a>  <br/>
 <strong>학습 이유</strong> <br/>
 - 현재 RabbitMQ를 사용하고 있지만 직접 구현해 본 기능 범위 내에서만 이해하고 있다.  
 이로 인해 RabbitMQ의 다양한 기능을 적극적으로 활용하지 못하고 있다는 한계를 느꼈다.  
